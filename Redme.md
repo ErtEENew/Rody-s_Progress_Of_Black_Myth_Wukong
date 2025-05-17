@@ -1,223 +1,133 @@
 # 🐒 Black Myth: Wukong – Boss Defeat Checklist
 
-Track your progress as you defeat every boss in **Black Myth: Wukong**. Each box is unchecked – mark them as completed when you've conquered each foe!
+> ✅ Use this tracker to mark bosses you've defeated.  
+> ⚠️ All bosses are UNCHECKED so you can manually mark your victories!
 
 ---
 
-## 📜 Prologue
+## 🟨 Prologue
 
-- [X] **Erlang, The Sacred Divinity** – Prologue
-
----
-
-## 🐺 Chapter 1: Forest Of Wolves
-
-### 📍 Front Hills
-- [X] **Bullguard**
-
-### 📍 Outside The Forest
-- [X] **Wandering Wight**  
-- [X] **Guangzhi**
-
-### 📍 Guanyin Temple
-- [X] **Lingxuzi**
+📍 **Prologue Zone**
+- ⬜️ **🔥 Erlang, The Sacred Divinity**
 
 ---
 
-## 🎋 Chapter 1: Bamboo Grove
+## 🟨 Chapter 1: Forest Of Wolves
 
-### 📍 Snake Trail
-- [X] **Baw-Li-Guhh-Lang**  
-- [X] **Guangmou**
+📍 **Front Hills**
+- ⬜️ **🛡️ Bullguard**
 
-### 📍 Marsh Of White Mist
-- [X] **Whiteclad Noble**
+📍 **Outside The Forest**
+- ⬜️ **👻 Wandering Wight**  
+- ⬜️ **🧙 Guangzhi**
 
----
-
-## 🌬️ Chapter 1: Black Wind Cave
-
-### 📍 Cave Interior
-- [X] **Black Wind King**
-
-### 📍 Bodhi Peak
-- [X] **Black Bear Guai**
+📍 **Guanyin Temple**
+- ⬜️ **🌀 Lingxuzi**
 
 ---
 
-## 🛕 Chapter 1: Ancient Guanyin Temple
+## 🟨 Chapter 1: Bamboo Grove
 
-- [X] **Elder Jinchi**
+📍 **Snake Trail**
+- ⬜️ **🐍 Baw-Li-Guhh-Lang**  
+- ⬜️ **🧙 Guangmou**
 
----
-
-## 🐉 Chapter 1: Loong Claw Grove
-
-- [X] **The Red Loong**
-
----
-
-## 🐅 Chapter 2: Sandgate Village
-
-### 📍 Village Entrance
-- [X] **Lang-Li-Guhh-Baw**  
-- [X] **Earth Wolf**
-
-### 📍 Valley Of Despair
-- [X] **King + Second Prince**  
-- [X] **First Prince Of Flowing Sands**  
-- [X] **Gore-Eye Daoist**
+📍 **Marsh Of White Mist**
+- ⬜️ **👑 Whiteclad Noble**
 
 ---
 
-## 🐯 Chapter 2: Crouching Tiger Temple
+## 🟨 Chapter 1: Black Wind Cave
 
-### 📍 Temple Entrance
-- [ ] **Tiger Vanguard**
+📍 **Cave Interior**
+- ⬜️ **🌪️ Black Wind King**
 
-### 📍 Cellar
-- [ ] **Yellow Wind Sage**
-
----
-
-## 🌪️ Chapter 2: Yellow Wind Formation
-
-- [ ] **Tiger's Acolyte** – Windrest Hamlet
+📍 **Bodhi Peak**
+- ⬜️ **🐻 Black Bear Guai**
 
 ---
 
-## 🪨 Chapter 2: Fright Cliff
+## 🟨 Chapter 1: Ancient Guanyin Temple
 
-### 📍 Rock Clash Platform
-- [ ] **Stone Vanguard**  
-- [ ] **Shigandang**
-
-### 📍 Squall Hideout
-- [ ] **Mother Of Stones**  
-- [ ] **Man-In-Stone**
-
-### 📍 Rockrest Flat
-- [ ] **Yellow-Robed Squire**
-
-### 📍 Hidden Loong Cavern
-- [ ] **Black Loong**
+- ⬜️ **🧓 Elder Jinchi**
 
 ---
 
-## 💧 Chapter 2: Bottom Of The Well
+## 🟨 Chapter 1: Loong Claw Grove
 
-- [ ] **Mad Tiger**
-
----
-
-## 🌄 Chapter 2: Kingdom Of Sahālī
-
-- [ ] **Tiger Vanguard** – Sandgate Pass  
-- [ ] **Fuban** – Sandgate Bound
+- ⬜️ **🐉 The Red Loong**
 
 ---
 
-## ❄️ Chapter 3: Snowhill Path
+## 🟨 Chapter 2: Sandgate Village
 
-- [ ] **Macaque Chief 1** – Frost-Clad Path  
-- [ ] **Kang-Jin Loong** – Mirrormere
+📍 **Village Entrance**
+- ⬜️ **🐺 Lang-Li-Guhh-Baw**  
+- ⬜️ **🐾 Earth Wolf**
 
----
-
-## 🏯 Chapter 3: Pagoda Realm
-
-- [ ] **Rat Captain** – Lower Pagoda  
-- [ ] **Captain Lotus-Vision** – Upper Pagoda  
-- [ ] **Captain Wise-Voice** – Mani Wheel  
-- [ ] **Macaque Chief 2** – Warding Temple
+📍 **Valley Of Despair**
+- ⬜️ **🤴 King + Second Prince**  
+- ⬜️ **👑 First Prince Of Flowing Sands**  
+- ⬜️ **👁️ Gore-Eye Daoist**
 
 ---
 
-## 🐢 Chapter 3: Bitter Lake
+## 🟨 Chapter 2: Crouching Tiger Temple
 
-- [ ] **Kang-Jin Star** – Turtle Island  
-- [ ] **Cyan Loong** – Turtle Island  
-- [ ] **Apramana Bat** – North Shore  
-- [ ] **Chen Loong** – North Shore
+📍 **Temple Entrance**
+- ⬜️ **🐅 Tiger Vanguard**
 
----
-
-## ♒ Chapter 3: Zodiac Village
-
-- [ ] **Yin Tiger** – Village Entrance
+📍 **Cellar**
+- ⬜️ **🍃 Yellow Wind Sage**
 
 ---
 
-## ☯️ Chapter 3: Valley Of Ecstasy
+## 🟨 Chapter 2: Yellow Wind Formation
 
-- [ ] **Non-White 1** – Mindfulness Cliff  
-- [ ] **Non-White 2** – Mindfulness Cliff  
-- [ ] **Lang-Li-Guhh-Lang** – Forest Of Felicity  
-- [ ] **Old Ginseng Guai** – Towers Of Karma  
-- [ ] **Non-Able** – Brook Of Bliss  
-- [ ] **Green-Capped Martialist** – Melon Field  
-- [ ] **Captain Void-Illusion** – Longevity Road  
-- [ ] **Captain Kalpa-Wave** – Longevity Road
+📍 **Windrest Hamlet**
+- ⬜️ **⚔️ Tiger's Acolyte**
 
 ---
 
-## 🛕 Chapter 3: New Thunderclap Temple
+## 🟨 Chapter 2: Fright Cliff
 
-- [ ] **Non-Void** – Temple Entrance  
-- [ ] **Monk From The Sea** – Temple Entrance  
-- [ ] **Non-Pure** – Mahavira Hall  
-- [ ] **Yellowbrow + Macaque Chief** – Mahavira Hall
+📍 **Rock Clash Platform**
+- ⬜️ **🪨 Stone Vanguard**  
+- ⬜️ **🧱 Shigandang**
 
----
+📍 **Squall Hideout**
+- ⬜️ **🕸️ Mother Of Stones**  
+- ⬜️ **👤 Man-In-Stone**
 
-## 🏡 Chapter 4: Village of Lanxi
+📍 **Rockrest Flat**
+- ⬜️ **🧥 Yellow-Robed Squire**
 
-- [ ] **The Second Sister** – Estate Of The Zhu
-
----
-
-## 🕷️ Chapter 4: Webbed Hollow
-
-- [ ] **Elder Amourworm** – The Verdure Bridge  
-- [ ] **Venom Daoist 1** – Pool Of Shattered Jade  
-- [ ] **Centipede Guai** – Middle Hollow  
-- [ ] **Buddha's Right Hand** – Cliff Of Oblivion  
-- [ ] **Yellow Loong** – Relief Of The Fallen Loong  
-- [ ] **Baw-Li-Guhh-Baw** – Lower Hollow  
-- [ ] **Zhu Bajie 1** – Hut Of Immortality  
-- [ ] **Zhu Bajie 2** – Hut Of Immortality  
-- [ ] **Violet Spider** – The Gathering Cave
+📍 **Hidden Loong Cavern**
+- ⬜️ **🐉 Black Loong**
 
 ---
 
-## 🌼 Chapter 4: Temple Of The Yellow Flower
-
-- [ ] **Commander Beetle** – Forest Of Ferocity  
-- [ ] **Supreme Inspector 1** – Court Of Illumination  
-- [ ] **Hundred-Eyed Daoist Master** – Court Of Illumination  
-- [ ] **Fungiwoman** – Court Of Illumination  
-- [ ] **Venom Daoist 2** – Court Of Illumination
+✅ *And so on for the rest of the chapters...*
 
 ---
 
-## ⛰️ Chapter 4: Purple Cloud Mountain
-
-- [ ] **Scorpionlord** – Bounds Of Deity's Abode  
-- [ ] **Daoist Mi** – Petalfall Hamlet  
-- [ ] **The Duskveil** – Cloudnest Peak
-
----
-
-## 🔥 Chapter 5: Woods Of Ember
-
-- [ ] **Pale-Axe Stalwart** – Ashen Pass I  
-- [ ] **Brown-Iron Cart** – Ashen Pass I
-
----
-
-> 🎮 *Mark each boss with an `x` like `[x]` when you've defeated them!*
->  
-> ✨ Feel free to fork this repo or share it with friends playing Black Myth: Wukong!
+### 📌 **Legend**
+- ⬜️ = UNCHECKED – Defeat the boss, then replace with ✅  
+- ✅ = You defeated that boss!  
+- 🐉 = Loong  
+- 🐅 = Tiger-related boss  
+- 🧙 = Mage / Monk  
+- 🪨 = Rock or Earth-based  
+- 👻 = Ghost-type enemy  
+- 👑 = Royalty  
+- 🧓 = Elder/Ancient  
+- 🌪️ = Wind-based  
+- 🐍 = Serpent  
+- 🐻 = Bear  
+- 🕷️ = Spider or bug-like  
+- 🍃 = Elemental (wind, nature)
 
 ---
+
+> 👊 You're the hero of your journey. Update this checklist proudly with every victory!
 
