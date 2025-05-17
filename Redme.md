@@ -8,67 +8,67 @@
 ## 🟨 Prologue
 
 📍 **Prologue Zone**
-- ⬜️ **🔥 Erlang, The Sacred Divinity**
+- ✅ **🔥 Erlang, The Sacred Divinity**
 
 ---
 
 ## 🟨 Chapter 1: Forest Of Wolves
 
 📍 **Front Hills**
-- ⬜️ **🛡️ Bullguard**
+- ✅ **🛡️ Bullguard**
 
 📍 **Outside The Forest**
-- ⬜️ **👻 Wandering Wight**  
-- ⬜️ **🧙 Guangzhi**
+- ✅ **👻 Wandering Wight**  
+- ✅ **🧙 Guangzhi**
 
 📍 **Guanyin Temple**
-- ⬜️ **🌀 Lingxuzi**
+- ✅ **🌀 Lingxuzi**
 
 ---
 
 ## 🟨 Chapter 1: Bamboo Grove
 
 📍 **Snake Trail**
-- ⬜️ **🐍 Baw-Li-Guhh-Lang**  
-- ⬜️ **🧙 Guangmou**
+- ✅ **🐍 Baw-Li-Guhh-Lang**  
+- ✅ **🧙 Guangmou**
 
 📍 **Marsh Of White Mist**
-- ⬜️ **👑 Whiteclad Noble**
+- ✅ **👑 Whiteclad Noble**
 
 ---
 
 ## 🟨 Chapter 1: Black Wind Cave
 
 📍 **Cave Interior**
-- ⬜️ **🌪️ Black Wind King**
+- ✅ **🌪️ Black Wind King**
 
 📍 **Bodhi Peak**
-- ⬜️ **🐻 Black Bear Guai**
+- ✅ **🐻 Black Bear Guai**
 
 ---
 
 ## 🟨 Chapter 1: Ancient Guanyin Temple
 
-- ⬜️ **🧓 Elder Jinchi**
+- ✅ **🧓 Elder Jinchi**
 
 ---
 
 ## 🟨 Chapter 1: Loong Claw Grove
 
-- ⬜️ **🐉 The Red Loong**
+- ✅ **🐉 The Red Loong**
 
 ---
 
 ## 🟨 Chapter 2: Sandgate Village
 
 📍 **Village Entrance**
-- ⬜️ **🐺 Lang-Li-Guhh-Baw**  
-- ⬜️ **🐾 Earth Wolf**
+- ✅ **🐺 Lang-Li-Guhh-Baw**  
+- ✅ **🐾 Earth Wolf**
 
 📍 **Valley Of Despair**
-- ⬜️ **🤴 King + Second Prince**  
-- ⬜️ **👑 First Prince Of Flowing Sands**  
-- ⬜️ **👁️ Gore-Eye Daoist**
+- ✅ **🤴 King + Second Prince**  
+- ✅ **👑 First Prince Of Flowing Sands**  
+- ✅ **👁️ Gore-Eye Daoist**
 
 ---
 
