@@ -6,67 +6,67 @@ Track your progress as you defeat every boss in **Black Myth: Wukong**. Each box
 
 ## 📜 Prologue
 
-- [ ] **Erlang, The Sacred Divinity** – Prologue
+- [X] **Erlang, The Sacred Divinity** – Prologue
 
 ---
 
 ## 🐺 Chapter 1: Forest Of Wolves
 
 ### 📍 Front Hills
-- [ ] **Bullguard**
+- [X] **Bullguard**
 
 ### 📍 Outside The Forest
-- [ ] **Wandering Wight**  
-- [ ] **Guangzhi**
+- [X] **Wandering Wight**  
+- [X] **Guangzhi**
 
 ### 📍 Guanyin Temple
-- [ ] **Lingxuzi**
+- [X] **Lingxuzi**
 
 ---
 
 ## 🎋 Chapter 1: Bamboo Grove
 
 ### 📍 Snake Trail
-- [ ] **Baw-Li-Guhh-Lang**  
-- [ ] **Guangmou**
+- [X] **Baw-Li-Guhh-Lang**  
+- [X] **Guangmou**
 
 ### 📍 Marsh Of White Mist
-- [ ] **Whiteclad Noble**
+- [X] **Whiteclad Noble**
 
 ---
 
 ## 🌬️ Chapter 1: Black Wind Cave
 
 ### 📍 Cave Interior
-- [ ] **Black Wind King**
+- [X] **Black Wind King**
 
 ### 📍 Bodhi Peak
-- [ ] **Black Bear Guai**
+- [X] **Black Bear Guai**
 
 ---
 
 ## 🛕 Chapter 1: Ancient Guanyin Temple
 
-- [ ] **Elder Jinchi**
+- [X] **Elder Jinchi**
 
 ---
 
 ## 🐉 Chapter 1: Loong Claw Grove
 
-- [ ] **The Red Loong**
+- [X] **The Red Loong**
 
 ---
 
 ## 🐅 Chapter 2: Sandgate Village
 
 ### 📍 Village Entrance
-- [ ] **Lang-Li-Guhh-Baw**  
-- [ ] **Earth Wolf**
+- [X] **Lang-Li-Guhh-Baw**  
+- [X] **Earth Wolf**
 
 ### 📍 Valley Of Despair
-- [ ] **King + Second Prince**  
-- [ ] **First Prince Of Flowing Sands**  
-- [ ] **Gore-Eye Daoist**
+- [X] **King + Second Prince**  
+- [X] **First Prince Of Flowing Sands**  
+- [X] **Gore-Eye Daoist**
 
 ---
 
